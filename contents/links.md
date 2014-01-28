@@ -13,3 +13,5 @@ view: none
 [GitTip](https://www.gittip.com/mrmakeit/)
 
 [Projects](/projects/)
+
+[RSS Feed](http://feeds.feedburner.com/feeds/all)

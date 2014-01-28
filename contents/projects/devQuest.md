@@ -7,7 +7,7 @@ About:
 
 devQuest (being renamed to jsQuest) is a homespun project to build a tile engine.
 
-Current Status: [![devQuest Status](https://www.codeship.io/projects/61a35cc0-642e-0131-f886-1ec0fa106aeb/status?branch=master)](https://www.codeship.io/projects/12432)
+Current Status: [![wercker status](https://app.wercker.com/status/552581c314b49b0a182279aeff5e8045/m "wercker status")](https://app.wercker.com/project/bykey/552581c314b49b0a182279aeff5e8045)
 
 Github: [mrmakeit/devQuest](http://github.com/mrmakeit/devquest)
 
